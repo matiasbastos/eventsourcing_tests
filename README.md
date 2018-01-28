@@ -1,1 +1,2 @@
-# eventsourcing_tests
+# Event Sourcing Tests
+Just some experiments with python eventsourcing lib...
