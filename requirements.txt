@@ -4,7 +4,7 @@ eventsourcing==5.0.0
 idna==2.6
 pudb==2017.1.4
 pycryptodome==3.4.8
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.6.1
 requests==2.18.4
 six==1.11.0
