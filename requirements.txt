@@ -10,5 +10,5 @@ requests==2.18.4
 six==1.11.0
 SQLAlchemy==1.2.2
 SQLAlchemy-Utils==0.32.21
-urllib3==1.22
+urllib3==1.26.5
 urwid==2.0.1
